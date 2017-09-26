@@ -21,3 +21,23 @@
 2017-09-26 14:23:51,447 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
 2017-09-26 14:23:51,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-09-26 14:23:51,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:36:15,056 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:36:15,057 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:36:15,059 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:36:15,059 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:39:23,153 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:39:23,154 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:39:23,156 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:39:23,156 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:39:45,016 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:39:45,016 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:39:45,018 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:39:45,018 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:40:10,151 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:40:10,151 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:40:10,153 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:40:10,153 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:42:26,262 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:42:26,262 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:42:26,263 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:42:26,263 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
