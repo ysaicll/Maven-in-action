@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+E:\Github\Maven-in-action\.metadata\.plugins\org.eclipse.jdt.core
+187463793.index
+1271044563.index
+2910891382.index
+3906574753.index
+2113687660.index
+2560805094.index
+947644926.index
+741213461.index
+3171125772.index
+3385803762.index
+3972399036.index
+526325973.index
+3239433195.index
+3687700199.index
+54703828.index
+292957727.index
+2733169217.index
+3464517734.index
+3865688664.index
