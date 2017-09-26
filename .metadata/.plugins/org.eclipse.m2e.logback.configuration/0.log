@@ -1,0 +1,23 @@
+2017-09-26 14:17:10,297 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-26 14:22:24,084 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Github\Maven-in-action\helloworld\pom.xml
+2017-09-26 14:22:33,360 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ruc.mvn:helloworld:0.0.1-SNAPSHOT @ E:\Github\Maven-in-action\helloworld\pom.xml.
+2017-09-26 14:22:34,205 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/main/java
+2017-09-26 14:22:34,211 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/test/java
+2017-09-26 14:22:35,644 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2017-09-26 14:22:38,689 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:22:38,690 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:22:38,693 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:22:38,693 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:23:01,217 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:01,217 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:23:01,219 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:01,219 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:23:49,774 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ruc.mvn:helloworld:0.0.1-SNAPSHOT @ E:\Github\Maven-in-action\helloworld\pom.xml.
+2017-09-26 14:23:50,079 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:50,079 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:23:50,082 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:50,082 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
+2017-09-26 14:23:51,446 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:51,447 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\main\resources
+2017-09-26 14:23:51,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 14:23:51,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github\Maven-in-action\helloworld\src\test\resources
